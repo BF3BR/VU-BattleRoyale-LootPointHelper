@@ -1,0 +1,11 @@
+{
+	"Name": "VU-BattleRoyale-LootPointHelper",
+	"Description": "LootPoint helper for VU Battle Royale.",
+	"Authors": [ "KVN", "Flash_Hit", "breaknix", "Janssent", "kiwidog" ],
+	"Version": "1.0.0",
+	"HasVeniceEXT": true,
+	"HasWebUI": false,
+	"Dependencies": {
+		"veniceext": "^1.4.0"
+	}
+}
