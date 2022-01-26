@@ -253,7 +253,7 @@ function LootPointHelper:PrintPointsAsTransforms()
 	local s_Result = "points = { "
 
 	for _, l_Point in pairs(self.m_Points) do
-		s_Result = s_Result .. "Vec3"..tostring(l_Point)..",\n"
+		s_Result = s_Result .. "Vec3"..tostring(l_Point)..", "
 	end
 
 	print(s_Result.."}")
